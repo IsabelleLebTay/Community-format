@@ -1,4 +1,4 @@
-Transform Wildtrax report to community-level presence/abscence format.
+# Transform Wildtrax report to community-level presence/abscence format.
 
 Input format example: BU_Edge_communities_report.csv
 
